@@ -15,3 +15,7 @@ pnpm start
 ```
 
 打开 http://localhost:4200/
+
+## codesandbox
+
+https://codesandbox.io/p/github/hmilin/micro-app-demo/main?file=%2F.codesandbox%2Ftasks.json%3A12%2C14
